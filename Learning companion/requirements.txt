@@ -1,0 +1,8 @@
+streamlit
+requests
+sentence-transformers
+faiss-cpu
+python-dotenv
+pillow
+pytesseract
+pdfplumber 
